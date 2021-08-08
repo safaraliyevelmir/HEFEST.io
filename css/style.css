@@ -127,21 +127,21 @@ p {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    border: 1px solid #ffc600;
+    border: 1px solid #00439c;
     padding: 0 35px;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: 50px;
     border-radius: 5px;
-    color: #07294d;
+    color: #fff;
     cursor: pointer;
     position: relative;
     overflow: hidden;
     z-index: 5;
     -webkit-transition: 0.4s ease-in-out;
     transition: 0.4s ease-in-out;
-    background-color: #ffc600;
+    background-color: #00439c;
 }
 .main-btn:hover {
     color: #ffc600;
@@ -171,7 +171,7 @@ p {
     position: absolute;
     width: 55px;
     height: 2px;
-    background-color: #ffc600;
+    background-color: #336aec;
     bottom: 0;
     left: 0;
 }
@@ -569,14 +569,14 @@ p {
 /*===== Header top =====*/
 
 .header-top {
-    background-color: #07294d;
+    background-color: #215dea;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 .header-contact ul li {
     display: inline-block;
     margin-right: 20px;
-    color: #c6c6c6;
+    color: #fff;
     font-size: 16px;
     font-weight: 500;
 }
@@ -587,7 +587,7 @@ p {
     margin-right: 10px;
 }
 .header-contact ul li a {
-    color: #c6c6c6;
+    color: #fff;
     font-weight: 500;
     font-size: 16px;
 }
@@ -595,7 +595,7 @@ p {
 .header-right .social {}
 .header-right .social .follow-us {
     font-size: 16px;
-    color: #c6c6c6;
+    color: #fff;
     padding-right: 10px;
     font-weight: 500;
 }
@@ -605,7 +605,7 @@ p {
     padding: 0 5px;
 }
 .header-right .social ul li a {
-    color: #c6c6c6;
+    color: #fff;
     font-size: 16px;
 }
 .header-right .social ul li a:hover {
@@ -694,7 +694,7 @@ p {
     display: block;
 }
 .navigation .navbar .navbar-nav>li>a.active, .navigation .navbar .navbar-nav>li:hover>a {
-    color: #ffc600;
+    color: #1040ae;
 }
 .navigation .navbar .navbar-nav li .sub-menu {
     position: absolute;
@@ -2088,7 +2088,7 @@ p {
 }
 .footer-address ul li .icon i {
     font-size: 18px;
-    color: #ffc600;
+    color: #fff;
     position: absolute;
     left: 0;
     top: 5px;
@@ -2115,7 +2115,7 @@ p {
     width: 40px;
     height: 40px;
     line-height: 35px;
-    background-color: #ffc600;
+    background-color: #00439c;
     color: #fff;
     font-size: 28px;
     border-radius: 5px;
@@ -2127,7 +2127,7 @@ p {
 }
 .back-to-top:hover {
     color: #fff;
-    background-color: #021d3a;
+    background-color: #0060df;
 }
 /*=====================================================
     14. CATEGORY 2 css 
@@ -2313,7 +2313,7 @@ p {
 }
 .single-counter span {
     font-size: 36px;
-    color: #ffc600;
+    color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
